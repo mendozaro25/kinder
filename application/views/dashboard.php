@@ -128,7 +128,7 @@
 						<div class="row">
 							<div class="card">
 								<div class="card-header">
-									<h3 class="card-title">Alumnos Cumpleañeros Mes (<?= $mes_actual ?>)</h3>
+									<h3 class="card-title">Alumnos Cumpleañeros Mes</h3>
 								</div>
 								<div class="card-body">	
 									<ul class="list-group">								
