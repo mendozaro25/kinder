@@ -15,8 +15,8 @@
 						<a class="header-brand" href="<?= base_url() ?>">
 							<img src="<?= base_url() ?>assets/images/siderbar/symptoscan-black.png" class="header-brand-img desktop-lgo" alt="Sysc logo">
 							<img src="<?= base_url() ?>assets/images/siderbar/symptoscan-white.png" class="header-brand-img dark-logo" alt="Sysc logo">
-							<img src="<?= base_url() ?>assets/images/siderbar/sympton-favicon-white.png" class="header-brand-img mobile-logo" alt="Sysc logo">
-							<img src="<?= base_url() ?>assets/images/siderbar/sympton-favicon-black.png" class="header-brand-img darkmobile-logo" alt="Sysc logo">
+							<img src="<?= base_url() ?>assets/images/siderbar/kinder-icon.png" class="header-brand-img mobile-logo" alt="Sysc logo">
+							<img src="<?= base_url() ?>assets/images/siderbar/kinder-icon.png" class="header-brand-img darkmobile-logo" alt="Sysc logo">
 						</a>
 					</div>
 					<div class="app-sidebar__user">
